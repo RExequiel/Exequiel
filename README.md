@@ -2,7 +2,7 @@
 Hola!🖐 Bienvenid@ a mí repositorio personal
 
 ## About me 👇
-Soy estudiante de desarrollo de software, en mí formación como desarrollador realice algunos proyectos , donde aplique los conocimientos adquiridos de Git - HTML 5 - CSS 3 - JavaScript - React - Sass - Bootstrap mediante la complementación de metodologías ágiles. Actualmente estoy en busca de mi primer oportunidad en la industria de IT para adquirir experiencia y crecer profesionalmente. Continuo aprendiendo y mejorando tanto mís habilidades tecnicas, como blandas.
+Soy desarrollor de software Front End, en mí formación como desarrollador realice algunos proyectos , donde aplique los conocimientos adquiridos de Git - HTML 5 - CSS 3 - JavaScript - React - Sass - Bootstrap mediante la complementación de metodologías ágiles. Actualmente estoy en busca de mi primer oportunidad en la industria de IT para adquirir experiencia y crecer profesionalmente. Continuo aprendiendo y mejorando tanto mís habilidades tecnicas, como blandas.
 
 ## Portfolio 💼
 ### [Ver Pagina](https://rexequiel.github.io/M-Portafolio---Exequiel-Gerez/) 👈
