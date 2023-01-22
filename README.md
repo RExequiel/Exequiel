@@ -2,7 +2,7 @@
 Hola!🖐 Bienvenid@ a mí repositorio personal
 
 ## About me 👇
-Soy desarrollador de software React Front End Developer, Back End Java, Spring Boot y SQL con MySQL, en mí formación realice algunos proyectos, donde aplique los conocimientos adquiridos de Git - HTML 5 - CSS 3 - Figma - JavaScript - React - Sass - Bootstrap - Tailwind CSS - Java|Spring Boot - SQL en relación a base de datos MySQL, mediante la complementación de metodologías ágiles( Jira, Trello, etc ). Actualmente estoy en busca de mi primer oportunidad en la industria de IT para adquirir experiencia y crecer profesionalmente. Continuo aprendiendo y mejorando tanto mís habilidades tecnicas, como blandas.
+Soy desarrollador de software React Front End Developer, Back End Java-Spring Boot y MySQL, en mí formación realice algunos proyectos, donde aplique los conocimientos adquiridos de Git - HTML 5 - CSS 3 - Figma - JavaScript - React - Sass - Bootstrap - Tailwind CSS - Java|Spring Boot - SQL en relación a base de datos MySQL, mediante la complementación de metodologías ágiles( Jira, Trello, etc ). Actualmente estoy en busca de mi primer oportunidad en la industria de IT para adquirir experiencia y crecer profesionalmente. Continuo aprendiendo y mejorando tanto mís habilidades tecnicas, como blandas.
 
 ## Portfolio 💼
 ### [Ver Pagina](https://exequielgerez.tech/) 👈
