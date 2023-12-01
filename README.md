@@ -1,11 +1,68 @@
-# Exequiel Gerez 😀
 Hola!🖐 Bienvenid@ a mí repositorio personal.
 
-## Sobre mí 👇
-Desarrollador de software, React | Spring Boot | MySQL - Front End specialist, en mí formación, en proyectos y pasantia realice algunos proyectos, donde aplique los conocimientos adquiridos de Git - HTML 5 - CSS 3 - Figma - JavaScript - React - Sass - Bootstrap - Java | Spring Boot - SQL en relación a base de datos MySQL, mediante la complementación de metodologías ágiles( Jira, Trello, chatGPT, etc ). Actualmente estoy en busca de adquirir más experiencia y crecer profesionalmente. Continuo aprendiendo y mejorando tanto mís habilidades tecnicas, como blandas.
+## Sobre mí 👨‍💻
+- Tengo 24 años, me gusta el deporte, escuchar musica y el ambiente en familia.
 
-## Portafolio 💼
-### [Ver Pagina](https://m-portafolio-exequiel-gerez.vercel.app/) 👈
+- Profesionalmente, me gusta estar constantemente aprendiendo, enseñando y cooperando mutuamente con los demas.
 
-## Tecnologías 🎓
-##  <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width='60px' > <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width='60px' > <img src="https://user-images.githubusercontent.com/101462851/201777516-5089450c-8a53-4ea3-a3bc-85179d0eb35d.png" width='60px' > <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width='60px' > <img src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" width='60px' > <img src="https://user-images.githubusercontent.com/101462851/182138445-d63b8431-d893-40a9-b936-7114681c21fa.png" width='60px' > <img src="https://user-images.githubusercontent.com/101462851/182139259-724b30b4-c14f-4eb1-a17b-33518f143ce0.png" width='60px' > <img src="https://user-images.githubusercontent.com/101462851/193475749-b0b0ddf7-9a6e-416b-a902-9c19f8602598.png" width='60px' > <img src="https://user-images.githubusercontent.com/101462851/193475961-7858ded2-4b52-4561-ba70-b5cb0a24d1e6.png" width='60px' > <img src="https://user-images.githubusercontent.com/101462851/197350888-52b45b95-8712-468d-838a-8007f31fd531.png" width='60px' >
+- Me encanta el trabajo en equipo, la cooperación, el respeto, la inclusión, la comunicación y la empatía.
+
+---
+
+##  Contacto 💬
+
+✉️ **Email:** [exe2016gerez@gmail.com](mailto:exe2016gerez@gmail.com)  
+🌐 **LinkedIn:** [https://www.linkedin.com/in/exequielgerez/](https://www.linkedin.com/in/exequielgerez/)  
+📂  **GitHub:** [https://github.com/RExequiel](https://github.com/RExequiel)  
+💼 **Portfolio:** [https://m-portafolio-exequiel-gerez.vercel.app/](https://m-portafolio-exequiel-gerez.vercel.app/)
+
+---
+
+## Principales Habilidades
+
+<table style="border-collapse: collapse; border: 0;">
+  <tr>
+    <td><img src="https://img.icons8.com/color/36/000000/typescript.png" width="18" height="18" style="vertical-align: middle;"></td>
+    <td><b>TypeScript</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/36/000000/nextjs.png" width="18" height="18" style="vertical-align: middle;"></td>
+    <td><b>NextJS</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/36/000000/nestjs.png" width="18" height="18" style="vertical-align: middle;"></td>
+    <td><b>NestJS</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/36/000000/tailwindcss.png" width="18" height="18" style="vertical-align: middle;"></td>
+    <td><b>Tailwind CSS</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/36/000000/test-tube.png" width="18" height="18" style="vertical-align: middle;"></td>
+    <td><b>Testing (Cypress, Jest, Supertest)</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/36/000000/docker.png" width="18" height="18" style="vertical-align: middle;"></td>
+    <td><b>Docker</b></td>
+  </tr>
+</table>
+
+<hr />
+
+### UI | UX Web
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-FIGMA-F24E1E?style=flat&logo=css3&logoColor=white">
+
+### Frontend
+<img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Zustand-764ABC?style=flat&logo=zustand&logoColor=white"> <img src="https://img.shields.io/badge/-MaterialUI-1DB8B1?style=flat&logo=materialui&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ffffff">
+
+### Backend
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/-Java-F80000?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
+
+### Base de Datos
+<img src="https://img.shields.io/badge/-TypeORM-E83524?style=flat&logo=type-orm&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=FFFFFF">
+
+### Herramientas de Desarrollo
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/-intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white">
+
+### Servicios y Plataformas
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/-Strapi CMS-4945FF?style=flat&logo=strapi&logoColor=white">
