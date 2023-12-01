@@ -61,8 +61,8 @@ Hola!🖐 Bienvenid@ a mí repositorio personal.
 ### Base de Datos
 <img src="https://img.shields.io/badge/-TypeORM-E83524?style=flat&logo=type-orm&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=FFFFFF">
 
-### Herramientas de Desarrollo
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/-intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white">
-
 ### Servicios y Plataformas
 <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/-Strapi CMS-4945FF?style=flat&logo=strapi&logoColor=white">
+
+### Herramientas de Desarrollo
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/-intellij IDEA-000000?style=flat&logo=intellijidea&logoColor=white">
