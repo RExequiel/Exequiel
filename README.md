@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rexequiel" alt="rexequiel" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [No Country](https://www.nocountry.tech/)
+- 🔭 Actualmente estoy trabajando en [corebiz.](https://www.corebiz.ag/es/)
 
 - 🌱 Actualmente estoy aprendiendo **Ingles, principios SOLID, patrones de diseño y arquitecturas de software**
 
